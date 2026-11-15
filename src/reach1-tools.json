@@ -1,0 +1,32 @@
+{
+  "triesKey": "psdViewer.proTrial",
+  "tools": [
+    {
+      "id": "layers",
+      "title": "Export layers as PNG files",
+      "command": "psdViewer.layers",
+      "extensions": [
+        ".psd",
+        ".psb"
+      ]
+    },
+    {
+      "id": "text",
+      "title": "List text layers and CSS",
+      "command": "psdViewer.text",
+      "extensions": [
+        ".psd",
+        ".psb"
+      ]
+    },
+    {
+      "id": "compare",
+      "title": "Compare two PSD files",
+      "command": "psdViewer.compare",
+      "extensions": [
+        ".psd",
+        ".psb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "listing": "psd",
+  "triesKey": "psdViewer.proTrial",
+  "tools": [
+    {
+      "id": "layers",
+      "title": "Export layers as PNG files",
+      "line": "Use this tool on a local file and save its result."
+    },
+    {
+      "id": "text",
+      "title": "List text layers and CSS",
+      "line": "Use this tool on a local file and save its result."
+    },
+    {
+      "id": "compare",
+      "title": "Compare two PSD files",
+      "line": "Use this tool on a local file and save its result."
+    }
+  ]
+}
